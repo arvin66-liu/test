@@ -1,3 +1,5 @@
 123456
 djfsl;kdfjskl
 45675487
+
+B:clone&pull
